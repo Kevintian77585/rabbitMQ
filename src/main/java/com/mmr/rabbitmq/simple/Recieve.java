@@ -1,4 +1,4 @@
-package com.mmr.rabbitmq.util.simple;
+package com.mmr.rabbitmq.simple;
 
 import com.mmr.rabbitmq.util.ConnectUtils;
 import com.rabbitmq.client.*;
